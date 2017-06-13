@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Run Planner</string>
+    <string name="title_timer">Timer</string>
+    <string name="title_schedules">Schedules</string>
+</resources>

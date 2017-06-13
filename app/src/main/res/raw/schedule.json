@@ -1,0 +1,96 @@
+[
+  [
+    {
+      "type": "walk",
+      "time": 5
+    },
+    {
+      "type": "run",
+      "time": 7
+    }
+  ],
+  [
+    {
+      "type": "walk",
+      "time": 90
+    },
+    {
+      "type": "run",
+      "time": 90
+    },
+    {
+      "type": "walk",
+      "time": 90
+    }
+  ],
+  [
+    {
+      "type": "walk",
+      "time": 90
+    },
+    {
+      "type": "run",
+      "time": 130
+    },
+    {
+      "type": "walk",
+      "time": 90
+    }
+  ],
+  [
+    {
+      "type": "walk",
+      "time": 90
+    },
+    {
+      "type": "run",
+      "time": 200
+    },
+    {
+      "type": "walk",
+      "time": 90
+    }
+  ],
+  [
+    {
+      "type": "walk",
+      "time": 90
+    },
+    {
+      "type": "run",
+      "time": 300
+    },
+    {
+      "type": "walk",
+      "time": 90
+    }
+  ],
+  [
+    {
+      "type": "walk",
+      "time": 90
+    },
+    {
+      "type": "run",
+      "time": 350
+    },
+    {
+      "type": "walk",
+      "time": 90
+    }
+  ],
+  [
+    {
+      "type": "walk",
+      "time": 90
+    },
+    {
+      "type": "run",
+      "time": 400
+    },
+    {
+      "type": "walk",
+      "time": 90
+    }
+  ]
+]
